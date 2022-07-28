@@ -1,4 +1,4 @@
 .env
 .prettierrc
-.gas-report.txt
+gas-report.txt
 node_modules
