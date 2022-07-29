@@ -785,6 +785,46 @@
         "^0.8.0"
       ],
       "artifacts": []
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/DynamicSvgNft.sol": {
+      "lastModificationDate": 1659111560904,
+      "contentHash": "770a64219c359068968d26cb6c821b01",
+      "sourceName": "contracts/DynamicSvgNft.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
     }
   }
 }
