@@ -5,7 +5,7 @@ const networkConfig = {
         gasLane: "0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc", // 30 gwei
         mintFee: "10000000000000000", // 0.01 ETH
         callbackGasLimit: "500000", // 500,000 gas
-        subscriptionId: "8028",
+        subscriptionId: "9524",
     },
     // Price Feed Address, values can be obtained at https://docs.chain.link/docs/reference-contracts
     // Default one is ETH/USD contract on Kovan
@@ -16,7 +16,7 @@ const networkConfig = {
         gasLane: "0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc",
         callbackGasLimit: "500000", // 500,000 gas
         mintFee: "10000000000000000", // 0.01 ETH
-        subscriptionId: "8028", // add your ID here!
+        subscriptionId: "9524", // add your ID here!
     },
 }
 

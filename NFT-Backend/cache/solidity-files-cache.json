@@ -2,11 +2,11 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/BasicNFT.sol": {
-      "lastModificationDate": 1658896110195,
+      "lastModificationDate": 1659162878421,
       "contentHash": "42e3bdc848db35962bbc1d7f8b060449",
       "sourceName": "contracts/BasicNFT.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -46,11 +46,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1658894397732,
+      "lastModificationDate": 1659166545804,
       "contentHash": "79ff1a7eb801a525aa315fb7a679eede",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -96,11 +96,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1658894397732,
+      "lastModificationDate": 1659166545764,
       "contentHash": "ec99d946db3685a3630554aa6055bd7f",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -140,11 +140,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1658894397732,
+      "lastModificationDate": 1659166545386,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -186,7 +186,7 @@
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -226,11 +226,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/utils/Address.sol": {
-      "lastModificationDate": 1658894396893,
+      "lastModificationDate": 1659164697119,
       "contentHash": "c476b3895a94798b88a4bb97399e6dfe",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -268,11 +268,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1658894396893,
+      "lastModificationDate": 1659164696791,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -310,11 +310,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1658894396893,
+      "lastModificationDate": 1659164696395,
       "contentHash": "cf46906c4035f51639a22265066a9e78",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -352,11 +352,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1658894397731,
+      "lastModificationDate": 1659166547302,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -396,11 +396,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1658894397731,
+      "lastModificationDate": 1659166546938,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -442,7 +442,7 @@
       "contentHash": "8af32effd0536e2971ff8496812a5016",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -482,11 +482,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/RandomipfsNft.sol": {
-      "lastModificationDate": 1658940297425,
+      "lastModificationDate": 1659162878370,
       "contentHash": "c310a5817c03b7a6a12005918f2bcb0c",
       "sourceName": "contracts/RandomipfsNft.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -529,11 +529,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol": {
-      "lastModificationDate": 1658936700668,
+      "lastModificationDate": 1659166319522,
       "contentHash": "eb9cc526ef59dfc4d644f56ddca0633a",
       "sourceName": "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -571,11 +571,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol": {
-      "lastModificationDate": 1658936707327,
+      "lastModificationDate": 1659170115278,
       "contentHash": "8c9ed3426b676f67ee200a2bec96e224",
       "sourceName": "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -613,11 +613,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1658894396892,
+      "lastModificationDate": 1659164692996,
       "contentHash": "e436cea06129be2c73cda4b1acc848b5",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -657,11 +657,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.8/mocks/VRFCoordinatorV2Mock.sol": {
-      "lastModificationDate": 1658936707327,
+      "lastModificationDate": 1659170117322,
       "contentHash": "a78f72f6c18077e727bc06d7f96b2031",
       "sourceName": "@chainlink/contracts/src/v0.8/mocks/VRFCoordinatorV2Mock.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -703,11 +703,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.8/interfaces/LinkTokenInterface.sol": {
-      "lastModificationDate": 1658936707325,
+      "lastModificationDate": 1659170116154,
       "contentHash": "da5a0c3bd86c896f6a407f909c57edf3",
       "sourceName": "@chainlink/contracts/src/v0.8/interfaces/LinkTokenInterface.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -745,11 +745,11 @@
       ]
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/test/VRFCoordinatorV2Mock.sol": {
-      "lastModificationDate": 1658982949951,
+      "lastModificationDate": 1659162904378,
       "contentHash": "52f87769e086936d030176ce9ffb9221",
       "sourceName": "contracts/test/VRFCoordinatorV2Mock.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -787,11 +787,57 @@
       "artifacts": []
     },
     "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/DynamicSvgNft.sol": {
-      "lastModificationDate": 1659111560904,
-      "contentHash": "770a64219c359068968d26cb6c821b01",
+      "lastModificationDate": 1659168506656,
+      "contentHash": "a85c48faa9ed914bfc97becb9c2048b8",
       "sourceName": "contracts/DynamicSvgNft.sol",
       "solcConfig": {
-        "version": "0.8.7",
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC721/ERC721.sol",
+        "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol",
+        "base64-sol/base64.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "DynamicSvgNft"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol": {
+      "lastModificationDate": 1659170117050,
+      "contentHash": "d9654a0fc044a31d4106ee6bca772add",
+      "sourceName": "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol",
+      "solcConfig": {
+        "version": "0.8.8",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -822,9 +868,268 @@
       },
       "imports": [],
       "versionPragmas": [
-        "^0.8.7"
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AggregatorV3Interface"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/base64-sol/base64.sol": {
+      "lastModificationDate": 1659162988759,
+      "contentHash": "0d54cb6a748ddde95d92ed7802c9248d",
+      "sourceName": "base64-sol/base64.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0"
+      ],
+      "artifacts": [
+        "Base64"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/contracts/test/MockV3Aggregator.sol": {
+      "lastModificationDate": 1659160825774,
+      "contentHash": "5abc73bd49c829d4a9d55ec639f45625",
+      "sourceName": "contracts/test/MockV3Aggregator.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "@chainlink/contracts/src/v0.6/tests/MockV3Aggregator.sol"
+      ],
+      "versionPragmas": [
+        "^0.6.0"
       ],
       "artifacts": []
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.6/tests/MockV3Aggregator.sol": {
+      "lastModificationDate": 1658936705857,
+      "contentHash": "b1f27d8f04303e8c78cd057685d883f6",
+      "sourceName": "@chainlink/contracts/src/v0.6/tests/MockV3Aggregator.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/AggregatorV2V3Interface.sol"
+      ],
+      "versionPragmas": [
+        "^0.6.0"
+      ],
+      "artifacts": [
+        "MockV3Aggregator"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.6/interfaces/AggregatorV2V3Interface.sol": {
+      "lastModificationDate": 1658936705853,
+      "contentHash": "6b76a24083942363411bb0b83ffeb997",
+      "sourceName": "@chainlink/contracts/src/v0.6/interfaces/AggregatorV2V3Interface.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "./AggregatorInterface.sol",
+        "./AggregatorV3Interface.sol"
+      ],
+      "versionPragmas": [
+        "^0.6.0"
+      ],
+      "artifacts": [
+        "AggregatorV2V3Interface"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.6/interfaces/AggregatorInterface.sol": {
+      "lastModificationDate": 1658936705853,
+      "contentHash": "0c9be74e354bca05abc54edfdc49607e",
+      "sourceName": "@chainlink/contracts/src/v0.6/interfaces/AggregatorInterface.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.0"
+      ],
+      "artifacts": [
+        "AggregatorInterface"
+      ]
+    },
+    "/mnt/c/Users/gumma/OneDrive/Desktop/Hardhat/NFT-Project/NFT-Backend/node_modules/@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol": {
+      "lastModificationDate": 1658936705853,
+      "contentHash": "79f9f2c352a0b4454d1416042e7f7ae0",
+      "sourceName": "@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol",
+      "solcConfig": {
+        "version": "0.6.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.0"
+      ],
+      "artifacts": [
+        "AggregatorV3Interface"
+      ]
     }
   }
 }

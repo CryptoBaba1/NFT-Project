@@ -1,5 +1,5 @@
 const { network } = require("hardhat")
-const { developmentChains } = require("../helper-hardhat.config")
+const { developmentChains, DECIMALS, INITIAL_PRICE } = require("../helper-hardhat.config")
 
 const BASE_FEE = "250000000000000000" // 0.25 is this the premium in LINK?
 const GAS_PRICE_LINK = 1e9 // link per gas, is this the gas lane? // 0.000000001 LINK per gas
@@ -17,6 +17,11 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
             log: true,
             // we need to wait if on a live network so we can verify properly
             waitConfirmations: network.config.blockConfirmations || 1,
+        })
+        await deploy("MockV3Aggregator", {
+            from: deployer,
+            log: true,
+            args: [DECIMALS, INITIAL_PRICE],
         })
         log("Mocks Deployed")
         log("-------------------------------------")
